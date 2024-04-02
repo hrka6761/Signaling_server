@@ -14,6 +14,7 @@
   "author": "Hamidreza Karami",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "ws": "^8.16.0"
   }
 }
