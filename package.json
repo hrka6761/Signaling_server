@@ -1,0 +1,16 @@
+{
+  "name": "signaling_server",
+  "version": "1.0.0",
+  "description": "Signaling server for WebRTC protocol",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webrtc",
+    "signaling server"
+  ],
+  "author": "Hamidreza Karami",
+  "license": "ISC"
+}
