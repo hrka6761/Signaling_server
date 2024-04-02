@@ -12,5 +12,8 @@
     "signaling server"
   ],
   "author": "Hamidreza Karami",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
